@@ -57,6 +57,7 @@ h4 {
   transform: translateY(0px);
   transition: transform 0.4s, opacity 0.2s ease-in;
   transition-delay: 0.2s;
+  line-height: 40px;
 }
 
 .start-hide {
