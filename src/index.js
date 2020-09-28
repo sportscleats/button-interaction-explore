@@ -21,7 +21,7 @@ function Component({ children }) {
             <input className="input" placeholder="Type to search" />
           </div>
           <div className={open ? "start-hide" : "start"} onClick={toggle}>
-            Click to Search
+            Add Sales Comps
           </div>
         </div>
       </div>
