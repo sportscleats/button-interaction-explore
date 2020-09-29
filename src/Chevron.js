@@ -14,8 +14,8 @@ function Chevron() {
         <path
           d="M10.5 2.5L4.5 8L10.5 13.5"
           stroke="black"
-          stroke-linecap="round"
-          stroke-linejoin="round"
+          strokeLinecap="round"
+          strokeLinejoin="round"
         />
       </svg>
     </>
