@@ -28,9 +28,13 @@ h4 {
   padding: 16px;
   display: flex;
   align-items: center;
-  justify-content: left;
+  justify-content: space-between;
   background: black;
   border-radius: 10px 10px 0px 0px;
+}
+
+.comp-number {
+  color: white;
 }
 
 .button-input {

@@ -24,6 +24,7 @@ function Component({ children }) {
             Add Sales Comps
           </div>
         </div>
+        <div className="comp-number">0 of 5 comps added</div>
       </div>
       <div
         className={
