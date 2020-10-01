@@ -41,7 +41,7 @@ h4 {
   height: 48px;
   border: 1px solid black;
   box-sizing: border-box;
-  border-radius: 100px;
+  border-radius: 10px;
   padding: 8px 16px;
   cursor: pointer;
   transition: 0.2s ease-in;
@@ -54,7 +54,7 @@ h4 {
 
 .long {
   width: 400px;
-  border-radius: 25px 25px 0px 0px;
+  border-radius: 10px 10px 0px 0px;
 }
 
 .start {
